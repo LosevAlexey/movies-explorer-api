@@ -1,7 +1,9 @@
 
 # Ссылка на проект
+http://api.diplom.nomoredomainswork.ru/
 
-https://github.com/LosevAlexey/express-mesto-gha
+
+https://github.com/LosevAlexey/movies-explorer-api/tree/level-1
 
 
 # Директории
